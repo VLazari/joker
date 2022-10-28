@@ -1,0 +1,25 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VLazari/joker.git"
+  },
+  "keywords": [
+    "joke",
+    "jokes",
+    "fun",
+    "test"
+  ],
+  "author": "Viorel Lazari <luz_relu@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VLazari/joker/issues"
+  },
+  "homepage": "https://github.com/VLazari/joker#readme"
+}
